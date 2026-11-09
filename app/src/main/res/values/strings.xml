@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FLUX</string>
+    <string name="action_field_prompt">What do you want to do?</string>
+    <string name="search_apps_prompt">Search apps, activities, files, or settings…</string>
+    <string name="default_launcher_banner_title">Set FLUX as Default Home</string>
+    <string name="default_launcher_banner_desc">Experience activity-first navigation when pressing the Home button.</string>
+    <string name="set_default_home">Set Default</string>
+    <string name="space_personal">Personal</string>
+    <string name="space_study">Study</string>
+    <string name="space_work">Work</string>
+    <string name="space_media">Media</string>
+    <string name="space_games">Games</string>
+    <string name="space_people">People</string>
+    <string name="action_create">Create</string>
+    <string name="action_open">Open</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_send">Send</string>
+    <string name="action_plan">Plan</string>
+    <string name="action_play">Play</string>
+    <string name="action_search">Search</string>
+    <string name="edit_home_layout">Edit Home Layout</string>
+    <string name="restore_default_layout">Restore Default Layout</string>
+    <string name="ai_assistant_title">FLUX Local Assistant</string>
+    <string name="privacy_notice_local">All activities, objects, and search indices are stored locally on your device.</string>
+</resources>

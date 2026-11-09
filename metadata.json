@@ -1,0 +1,6 @@
+{
+  "name": "FLUX",
+  "description": "Activity-first, object-centric native Android launcher with Spaces, Action Field, continuity workspaces, widget hosting, and deep customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
